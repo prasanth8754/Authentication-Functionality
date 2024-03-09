@@ -1,0 +1,13 @@
+.nav-cont {
+  display: flex;
+  justify-content: center;
+}
+.ul-cont {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  padding-left: 0px;
+}
+.ul-cont li {
+  padding-right: 10px;
+}
